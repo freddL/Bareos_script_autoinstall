@@ -1,2 +1,2 @@
 # Bareos_script_autoinstall
-Script Bash pour installation automatique de Bareos sur Debian 11
+Script d'installation guidée et simplifiée de la solution Bareos sur un serveur Debian 11 (uniquement).
